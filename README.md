@@ -1,11 +1,8 @@
 peacock
 ==============================
-[//]: # (Badges)
-[![GitHub Actions Build Status](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/peacock/workflows/CI/badge.svg)](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/peacock/actions?query=workflow%3ACI)
-[![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/peacock/branch/main/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/peacock/branch/main)
-
-
-A Python package for rapid visualization of protein sequences and properties
+  
+## About peacock
+Peacock is a Python package for rapid visualization of protein sequences and properties. **PEACOCK IS NOT FINISHED YET, DON't USE it!**
 
 ### Copyright
 
